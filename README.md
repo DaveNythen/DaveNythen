@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DaveNythen
 - 👀 I’m interested in videogames (playing and doing them)
-- 🌱 I’m currently learning how to build an app by myself
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/davidlleida/
 
 <!---
